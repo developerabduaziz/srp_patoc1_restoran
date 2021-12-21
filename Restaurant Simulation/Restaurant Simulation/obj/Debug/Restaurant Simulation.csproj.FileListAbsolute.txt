@@ -1,0 +1,10 @@
+D:\SRP\patok 1\Restaurant Simulation\Restaurant Simulation\bin\Debug\Restaurant Simulation.exe.config
+D:\SRP\patok 1\Restaurant Simulation\Restaurant Simulation\obj\Debug\Restaurant_Simulation.Properties.Resources.resources
+D:\SRP\patok 1\Restaurant Simulation\Restaurant Simulation\obj\Debug\Restaurant_Simulation.UserInterfaceDialog.resources
+D:\SRP\patok 1\Restaurant Simulation\Restaurant Simulation\obj\Debug\Restaurant Simulation.csproj.GenerateResource.Cache
+D:\SRP\patok 1\Restaurant Simulation\Restaurant Simulation\bin\Debug\Restaurant Simulation.exe
+D:\SRP\patok 1\Restaurant Simulation\Restaurant Simulation\bin\Debug\Restaurant Simulation.pdb
+D:\SRP\patok 1\Restaurant Simulation\Restaurant Simulation\obj\Debug\Restaurant Simulation.exe
+D:\SRP\patok 1\Restaurant Simulation\Restaurant Simulation\obj\Debug\Restaurant Simulation.pdb
+D:\SRP\patok 1\Restaurant Simulation\Restaurant Simulation\obj\Debug\Restaurant Simulation.csprojAssemblyReference.cache
+D:\SRP\patok 1\Restaurant Simulation\Restaurant Simulation\obj\Debug\Restaurant Simulation.csproj.CoreCompileInputs.cache
